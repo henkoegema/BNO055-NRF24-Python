@@ -9,4 +9,4 @@ In VPython the object (my breadboard) moves in the space background.
 
 The space background moves opposite the yaw of the object.
 
-Why all this? : Just for fun!!  No other reason.
+Why all this? : Just for fun!!  
