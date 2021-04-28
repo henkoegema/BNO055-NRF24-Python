@@ -34,14 +34,8 @@ strap7=cylinder(length=0.35,radius=0.02,pos=vector(1.3,0.1,-0.8), axis=vector(0,
 strap8=cylinder(length=0.39,radius=0.02,pos=vector(1.2,0.1,-0.9), axis=vector(0,0,1), color=color.black)
 myObj=compound([bBoard,sensor,nano,strap1,strap2,strap3,strap4,strap5,strap6,strap7,strap8])
 
-'''
-bBoard=box(length=6,width=2,height=.2,opacity=.8,pos=vector(0,0,0,))
-bn=box(length=1,width=.75,height=.1, pos=vector(-.5,.1+.05,0),color=color.blue)
-nano=box(lenght=1.75,width=.6,height=.1,pos=vector(-2,.1+.05,0),color=color.green)
-myObj=compound([bBoard,bn,nano])'''
 
 r=vector(0,0,0)
-graden = 0
 t=0
 
 while (True):
